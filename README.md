@@ -87,7 +87,7 @@ Temel amacım, karmaşık mühendislik problemlerini yapay zeka teknikleriyle ç
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-abdulkadir.ozcan%40ogrenci.karatay.edu.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulkadir.ozcan@ogrenci.karatay.edu.tr)
+[![Email](https://img.shields.io/badge/Email-221300247%40ogrenci.karatay.edu.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulkadir.ozcan@ogrenci.karatay.edu.tr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulkadir%20Özcan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-%C3%B6zcan-397b791a9)
 
